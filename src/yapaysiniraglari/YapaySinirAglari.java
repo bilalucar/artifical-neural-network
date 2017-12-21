@@ -270,7 +270,7 @@ public class YapaySinirAglari extends javax.swing.JFrame {
         gc1.setText("");
         gc2.setText("");
         sonuc.setText("");
-        durum.setText("");
+        durum.setText("");  
     }//GEN-LAST:event_temizleActionPerformed
 
     private float hesapla() {
